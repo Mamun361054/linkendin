@@ -1,0 +1,395 @@
+{
+  "project_info": {
+    "project_number": "1058346535548",
+    "firebase_url": "https://infixedu-61cc5.firebaseio.com",
+    "project_id": "infixedu-61cc5",
+    "storage_bucket": "infixedu-61cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:8ab7d8f6b5279e9382d7f9",
+        "android_client_info": {
+          "package_name": "com.aero.aero_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-ivdn54iulnn8jrmpo9b8dcgji5u71e44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aero.aero_meet",
+            "certificate_hash": "07584f3626c8ba644ec47bcfb152ee1de7e53626"
+          }
+        },
+        {
+          "client_id": "1058346535548-jba096aoocc3bj1b1cblfthksaiqihs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aero.aero_meet",
+            "certificate_hash": "11227f1a70961c75431ebeab7bbe737f1598446d"
+          }
+        },
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:f55121912180133682d7f9",
+        "android_client_info": {
+          "package_name": "com.edu.infix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:65fd6253f8f2521c82d7f9",
+        "android_client_info": {
+          "package_name": "com.edu.infix.infixedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:9749e9327509c37b82d7f9",
+        "android_client_info": {
+          "package_name": "com.example.flutterpractiseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:46542ebf03119c4482d7f9",
+        "android_client_info": {
+          "package_name": "com.example.linkendin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:8fb3f93e4d926f4582d7f9",
+        "android_client_info": {
+          "package_name": "com.metakave.flutter_texi_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-eurkloqc6i69bedavgf9l3amufu108t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metakave.flutter_texi_tracker",
+            "certificate_hash": "5f2675ca28fd3b27eae987045b076434808197f0"
+          }
+        },
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:6614c85a4deb029482d7f9",
+        "android_client_info": {
+          "package_name": "com.metamorphosis.shabjMarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:54e23995681e1c0482d7f9",
+        "android_client_info": {
+          "package_name": "com.myfragranceme.perfume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:fad650a0e5dfecb582d7f9",
+        "android_client_info": {
+          "package_name": "com.zaki.plaudern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058346535548:android:8caf0496ec93336082d7f9",
+        "android_client_info": {
+          "package_name": "in.gabsinfo.usertimeslotgeofenceattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058346535548-1qch53s72svoio2p5m5kgi2pebakqnbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aero.aeroMeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1058346535548-am5u9ilgd9bb6ld1rk7n1d141ela1jdm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://infixedu-61cc5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1058346535548</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA</string>
+    <string name="google_app_id" translatable="false">1:1058346535548:android:46542ebf03119c4482d7f9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRIHSMZ-tpAt7Psc63nZ_JffgPRviCCeA</string>
+    <string name="google_storage_bucket" translatable="false">infixedu-61cc5.appspot.com</string>
+    <string name="project_id" translatable="false">infixedu-61cc5</string>
+</resources>
